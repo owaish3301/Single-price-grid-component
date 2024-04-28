@@ -106,6 +106,10 @@ button:hover{
     background-color: hsl(71, 85%, 38%);
 }
 
+button {
+    cursor: pointer;
+ }
+
 ul{
     padding-top:3% ;
     list-style-type: none ;
